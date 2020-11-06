@@ -6,7 +6,7 @@ A polyglot (meaning multilingual) is a file that is read differently but differe
 Unfortunately , the tool doesn't have .py or .cpp support. So this is a script that takes two files ( a python file and a cpp file) as input and generates a polyglot, maintaining the functionalities of both the files. 
 
 ### USAGE
-python3 PythonCppPolyglotMaker.py <Output file name> <Input py file> <Input cpp file>
+python3 PythonCppPolyglotMaker.py [Output file name] [Input py file] [Input cpp file]
   
 ### Demo
 
