@@ -9,4 +9,5 @@ Unfortunately , the tool doesn't have .py or .cpp support. So this is a script t
 python3 PythonCppPolyglotMaker.py <Output file name> <Input py file> <Input cpp file>
   
 ### Demo
-![image][https://raw.githubusercontent.com/starkizard/Python-Cpp-Polyglot/main/demo.jpeg]
+
+![demo](https://user-images.githubusercontent.com/42800934/98382853-c1d09e00-2071-11eb-99bd-96703396a95f.jpeg)
